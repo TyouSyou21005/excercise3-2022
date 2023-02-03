@@ -1,0 +1,29 @@
+h1 {
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #86cffa;
+    text-shadow: 3px 3px 1px black;
+  }
+  h2 {
+    font-size: 20px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #86cffa;
+    text-shadow: 3px 3px 1px black;
+  }
+  h3 {
+    font-size: 20px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #8688fa;
+    text-shadow: 3px 3px 1px black;
+  }
+  body{
+    background-image: url(http://api.btstu.cn/sjbz/?lx=dongman);
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
